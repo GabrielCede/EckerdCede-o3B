@@ -1,0 +1,5 @@
+C:\Users\Personal\Desktop\POO EJERCICIOS\EckerdCedeño3B\EckerdCedeño3B\bin\Debug\EckerdCedeño3B.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\EckerdCedeño3B\EckerdCedeño3B\bin\Debug\EckerdCedeño3B.exe.config
+C:\Users\Personal\Desktop\POO EJERCICIOS\EckerdCedeño3B\EckerdCedeño3B\obj\Debug\EckerdCedeño3B.exe
+C:\Users\Personal\Desktop\POO EJERCICIOS\EckerdCedeño3B\EckerdCedeño3B\obj\Debug\EckerdCedeño3B.pdb
+C:\Users\Personal\Desktop\POO EJERCICIOS\EckerdCedeño3B\EckerdCedeño3B\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
